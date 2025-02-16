@@ -1,8 +1,6 @@
 # TodoApp
 # 📝 To-Do App – Built with Flutter and Hive
 
-# 📝 To-Do App – Built with Flutter and Hive
-
 A simple and efficient To-Do List app built using **Flutter** for the user interface and **Hive** as the local database for fast, secure, and offline-first storage.
 
 ---
